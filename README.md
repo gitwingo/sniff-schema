@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-0ea5e9?labelColor=0d1117)](LICENSE)
 [![Downloads](https://img.shields.io/pypi/dm/sniff-schema?color=0ea5e9&labelColor=0d1117)](https://pypi.org/project/sniff-schema)
 
-<img src="docs/images/screenshot.png" alt="sniff-schema terminal screenshot" width="780">
+<img src="https://raw.githubusercontent.com/gitwingo/sniff-schema/main/docs/images/screenshot.png" alt="sniff-schema terminal screenshot" width="780">
 
 </div>
 
