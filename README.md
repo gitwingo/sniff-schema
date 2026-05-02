@@ -169,6 +169,30 @@ pip install -e ".[dev]"
 
 ---
 
+## Support
+
+If sniff-schema has been useful to you, consider supporting its development:
+
+<a href="https://ko-fi.com/gitwingo">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Ko-Fi" />
+</a>
+
+---
+
+## Connect
+
+- GitHub: [@gitwingo](https://github.com/gitwingo)
+- Reddit: [u/gitwingo](https://reddit.com/user/gitwingo)
+- X / Twitter: [@gitwingo](https://x.com/gitwingo)
+
+---
+
+<div align="center">
+  <sub>Made with 💖 by <a href="https://github.com/gitwingo">Gitwingo</a></sub>
+</div>
+
+---
+
 ## License
 
 MIT © [gitwingo](https://github.com/gitwingo)
