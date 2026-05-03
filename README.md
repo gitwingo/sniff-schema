@@ -139,25 +139,6 @@ Options:
 
 ---
 
-## Where to install / publish this tool
-
-| Platform | Command | Notes |
-|---|---|---|
-| **PyPI** | `pip install sniff-schema` | Primary distribution |
-| **Homebrew** (tap) | `brew install gitwingo/tap/sniff-schema` | macOS/Linux users who avoid pip |
-| **Conda-forge** | `conda install sniff-schema` | Data science audience |
-| **GitHub Releases** | Single-file `.py` download | For users who want zero install |
-| **pipx** | `pipx install sniff-schema` | Isolated install, great for CLI tools |
-
-> **Recommended publishing order:** PyPI first → GitHub Release (attach `sniff_schema.py`) → Conda-forge (after traction) → Homebrew tap.
-
----
-
-## Why conda-forge matters for this tool specifically
-
-`sniff-schema` is uniquely well-suited for **conda-forge** because its primary audience — data scientists and ML engineers — overwhelmingly use `conda` environments. Submitting a conda-forge recipe makes it a first-class citizen in that ecosystem. See the [conda-forge contribution docs](https://conda-forge.org/docs/maintainer/adding_pkgs/) to submit a recipe after publishing to PyPI.
-
----
 
 ## Development
 
